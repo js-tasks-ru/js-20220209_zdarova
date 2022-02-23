@@ -33,5 +33,3 @@ export function trimSymbols(string, size) {
 
   return result;
 }
-
-trimSymbols('eedaaad', 1);
